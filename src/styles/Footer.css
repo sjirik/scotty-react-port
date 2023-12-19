@@ -1,0 +1,25 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #1b3932;
+  }
+  
+  .social-media-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 175px;
+  }
+  
+  .social-media-icons a {
+    display: flex;
+    
+    color: #fff4f4;
+    font-size: 35px;
+  }
+  
+  .social-media-icons a:hover {
+    color: #ce2d22;
+  }

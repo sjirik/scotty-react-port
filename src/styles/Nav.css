@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+  }
+  
+  nav {
+    margin: 0px;
+    background-color: #75793b;
+    color: #dad6d6;
+    font-family: 'Times', sans-serif;
+  }
+  
+  li {
+    margin: 0;
+    list-style: none;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 2px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+  }
+  
+  li {
+    margin: 0 45px;
+  }
+  
+  a {
+    color: #b78181;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .navHover {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .navHover:hover {
+    transform: scale(0.8);
+    color: #721d1a;
+  }

@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background: #c62e17;
+    height: 105px;
+    border: 0;
+    margin: 0;
+    
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: left;
+    color: rgb(235, 221, 97);
+    font-size: 50px;
+    font-family: 'Times', sans-serif ;
+    letter-spacing: 3px;
+  }

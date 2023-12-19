@@ -1,0 +1,20 @@
+.aboutMe {
+    font-size: 27px;
+    color: #333;
+    padding: 180px;
+    align-items: center;
+    background-color: rgb(205, 201, 117);
+  }
+  
+.aboutHead {
+    color: rgb(249, 245, 245);
+    transition: opacity 0.6s ease-in-out;
+    font-family: 'Times', sans-serif;
+    font-size: 32px;
+}
+
+
+.aboutText{
+    color: rgb(175, 31, 5);
+    font-family: 'Times', sans-serif;
+  }

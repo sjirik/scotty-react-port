@@ -1,0 +1,16 @@
+.text-center {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times', sans-serif;
+    color: rgb(55, 20, 16);
+}
+
+.m-4 {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+::placeholder {
+    font-family: 'Times', sans-serif;
+}

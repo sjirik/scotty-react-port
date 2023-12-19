@@ -1,0 +1,21 @@
+.hero-section {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+
+  .hero-over {
+    position: absolute;
+    bottom: 60%;
+    left: 5vw;
+    color: #fffcf9;
+    font-size: 5.5em;
+    line-height: 1em;
+  }

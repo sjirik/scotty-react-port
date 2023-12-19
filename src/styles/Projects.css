@@ -1,0 +1,24 @@
+.slick-slider {
+    margin-top: 200px;
+    margin-bottom: 275px
+};
+
+.projectName {
+   display: flex;
+   color: rgb(7, 39, 7);
+   margin: 20px;
+};
+
+.githubImage {
+    border-radius: 20px
+};
+
+
+.viewGithub{
+    color: rgb(137, 132, 132);
+    border-color: gray;
+};
+
+.slick-dots {
+    display: flex;
+}
